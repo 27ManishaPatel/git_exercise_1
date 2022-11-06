@@ -1,5 +1,9 @@
 Apple
+<<<<<<< HEAD
 Banana-modified
+=======
+Banana/changed to Strawberry
+>>>>>>> master
 Cherry
 Grapes
 Orange
